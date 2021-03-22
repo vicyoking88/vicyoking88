@@ -1,9 +1,9 @@
 ### Hi there 👋
 ```javascript
-const thai = {
+const victor = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Bootstrap, HTML, CSS, Python],
+  tools: [React, Sails, NodeJS],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
