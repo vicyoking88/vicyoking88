@@ -1,9 +1,10 @@
 ### Hi there 👋
 ```javascript
 const victor = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Bootstrap, HTML, CSS, Python],
-  tools: [React, Sails, NodeJS]
+  tools: [React, Sails, NodeJS],
+  database: [MySQL, PostgreSQL, SQLserver]
 }
 ```
 
