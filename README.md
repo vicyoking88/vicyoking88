@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Victor 👋
+
+
 ```javascript
 const victor = {
   pronouns: "he" | "him",
