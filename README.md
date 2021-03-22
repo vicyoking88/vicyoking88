@@ -3,8 +3,7 @@
 const victor = {
   pronouns: "she" | "her",
   code: [Javascript, Bootstrap, HTML, CSS, Python],
-  tools: [React, Sails, NodeJS],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Sails, NodeJS]
 }
 ```
 
