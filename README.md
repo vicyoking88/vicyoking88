@@ -8,7 +8,8 @@ const victor = {
   pronouns: "he" | "him",
   code: [Javascript, Bootstrap, HTML, CSS, Python],
   tools: [React, Sails, NodeJS],
-  database: [MySQL, PostgreSQL, SQLserver]
+  SQL: [MySQL, PostgreSQL, SQLserver],
+  NO_SQL : []
 }
 ```
 
