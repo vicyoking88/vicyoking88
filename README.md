@@ -6,7 +6,7 @@ Soy ingeniero Electrónico Desarrollador JS Full Stack.
 ```javascript
 const victor = {
   pronouns: "he" | "him",
-  code: [Javascript, Bootstrap, HTML, CSS, Python],
+  code: [Javascript, Bootstrap, HTML, CSS, Python, C#],
   tools: [React, Sails, NodeJS],
   SQL: [MySQL, PostgreSQL, SQLserver],
   NO_SQL : [MongoDB]
