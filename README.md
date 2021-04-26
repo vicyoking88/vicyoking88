@@ -9,7 +9,7 @@ const victor = {
   code: [Javascript, Bootstrap, HTML, CSS, Python, C#],
   tools: [React, Sails, NodeJS],
   SQL: [MySQL, PostgreSQL, SQLserver],
-  NO_SQL : [MongoDB]
+  NO_SQL : [MongoDB, CouchDB, REDIS]
 }
 ```
 
