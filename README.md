@@ -4,12 +4,20 @@ Soy ingeniero Electrónico Desarrollador JS Full Stack.
 
 
 ```javascript
-const victor = {
+interface skills {
+  pronouns: string;
+  code: string[];
+  tools: string[];
+  SQL: string[];
+  NO_SQL: string[];
+}
+
+const victor : skills = {
   pronouns: "he" | "him",
-  code: [Javascript, typescript, HTML, CSS, Python, C#, SQL],
-  tools: [React, Angular, Vue, Sails, NextJS, NodeJS, NestJS, Flask, Bootstrap, material-ui, tailwind, SASS],
-  SQL: [MySQL, PostgreSQL, SQLserver],
-  NO_SQL : [MongoDB, CouchDB, REDIS]
+  code: ['Javascript', 'typescript', 'HTML', 'CSS', 'Python', 'C#', 'SQL'],
+  tools: ['React', 'Angular', 'Vue', 'Sails', 'NextJS', 'NodeJS', 'NestJS', 'Flask', 'Bootstrap', 'material-ui', 'tailwind', 'SASS'],
+  SQL: ['MySQL', 'PostgreSQL', 'SQLserver'],
+  NO_SQL : ['MongoDB', 'CouchDB', 'REDIS']
 }
 ```
 
