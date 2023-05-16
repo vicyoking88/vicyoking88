@@ -1,6 +1,6 @@
 ### Hi, I'm Victor 👋
 
-Soy ingeniero Electrónico Desarrollador JS Full Stack.
+FullStack Developer.
 
 
 ```javascript
